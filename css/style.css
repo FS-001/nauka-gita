@@ -5,9 +5,14 @@ body {
     letter-spacing: 0.6px;
     color: #222f3e;
 }
-
 h1 {
     font-size: 26px;
     margin-bottom: 0;
     letter-spacing: 2px;
+}
+.container {
+    max-width: 300px;
+    margin: 0 auto;
+    border: 10px solid #f8f8f8;
+    padding: 25px 50px;
 }
