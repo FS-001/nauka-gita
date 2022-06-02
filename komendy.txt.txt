@@ -1,0 +1,10 @@
+JD@JD-Komputer MINGW64 /d/projekty/learning-git-2 (master)
+$ node_modules/.bin/html-validate *.html
+
+D:\projekty\learning-git-2\index.html
+  1:1  warning  Usage of deprecated rule "void"  deprecated-rule
+
+✖ 1 problem (0 errors, 1 warning)
+
+More information:
+  https://html-validate.org/rules/deprecated-rule.html
